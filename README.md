@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Medical Health Record System
 
-This project demonstrates a Medical Health Record System for managing patients records using Blockchain. It comes with a MHR contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a Medical Health Record System for managing patients records using Blockchain Technology(Solidity, Hardhat, Javascript and React). It comes with a MHR contract, a test for that contract, and a script that deploys that contract.
 
 Try running some of the following tasks:
 
